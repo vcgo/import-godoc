@@ -1,4 +1,4 @@
-package import-godoc
+package import_godoc
 
 import (
     "github.com/vcgo/kit"
